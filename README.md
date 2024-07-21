@@ -6,7 +6,7 @@ My name is Parvej Chowdhury and I'm a Full-Stack Software Engineer / Data scient
 <br><br>
 I was born & grew up in a small South Asian country, Bangladesh. Back in 2021, I moved to the Netherlands.
 <br>
-You can find me on [LinkedIn][2].
+You can find me on <a href='https://www.linkedin.com/in/parvej35' target= '_blank'> Linkedin</a>.
 
 ---
 ## 🔧 Technologies & Tools
@@ -96,7 +96,3 @@ You can find me on [LinkedIn][2] [![LinkedIn][1.2]].
 <a href="https://github.com/parvej35/parvej35">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=parvej35&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="GitHub Stats" />
 </a>
-
-<!-- links to your social media accounts -->
-[1]: https://github.com/parvej35
-[2]: https://www.linkedin.com/in/parvej35
