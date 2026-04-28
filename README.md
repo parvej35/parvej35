@@ -4,9 +4,6 @@
 ### Hi there 👋
 My name is Parvej Chowdhury and I'm a Full-Stack Software Engineer / Data scientist. 
 <br><br>
-I was born & grew up in a small South Asian country, Bangladesh. Back in 2021, I moved to the Netherlands.
-<br>
-You can find me on <a href='https://www.linkedin.com/in/parvej35' target= '_blank'> Linkedin</a>.
 
 ---
 ## 🔧 Technologies & Tools
